@@ -22,3 +22,11 @@ I write unit and integrated test with at least 80% code coverage
     C#, ASP.NET, ASP.NET Core, T-SQL, Angular, Html5, CSS3, JavaScript, Typescript, React Native, Bootstrap, Entity Framework, Nhibernate, Dapper etc. 
 - #### Database Technology Stack: 
     MS SQL Server, Postgresql, Sqlite, MySql
+
+## Personal Details
+
+## Education
+
+## Professional Certificate
+
+## Interest
