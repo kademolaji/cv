@@ -44,10 +44,30 @@ I write unit and integrated test with at least 80% code coverage
     *September 2010 - October 2012 (2 years 1 month)*
     > Website Development, Website Designing, Database Designing
 
-## Personal Details
-
 ## Education
+- #### The Federal Polytechnic, Ado Ekiti - [T.E.C.](http://terna.org/), [University of Mumbai](http://mu.ac.in)
+    *Electral/Electronic Engineering, 2010 - 2012*
+    > Grade: Upper Credit
 
-## Professional Certificate
+- #### College - [I.C.L. Motital Jhunhunwala](www.iclesmj.edu.in/)
+    *Higher Secondary School Certificate - Science, 2004 - 2006*
+    > Grade: 74.30%
 
-## Interest
+- #### School - [I.E.S.](http://www.ies.edu/)
+    *Secondary School Certificate, 1994 - 2004*
+    > Grade: 74.80%
+
+## Languages
+- English *(Full professional proficiency)*
+- Hindi *(Native or bilingual proficiency)*
+
+## Interests
+Skateboarding &bull; Cycling &bull; Reading
+
+## Contact
+Email: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
+
+Skype: [atul.12788](skype:atul.12788) 
+
+## Social
+[LinkedIn](https://in.linkedin.com/in/atulmy) &bull; [Twitter](https://twitter.com/atulmy) &bull; [Instagram](https://instagram.com/atulmy/)
